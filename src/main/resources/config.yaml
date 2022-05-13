@@ -1,0 +1,31 @@
+#mongodb
+address: "120.77.66.52:37016"
+dbName: "reptile_test"
+profileCollection: "profile"
+contentCollection: "content"
+tradeCollection: "trade"
+cookieCollection: "cookie"
+
+#获取列表信息
+type: 0
+origin: 0
+sort: 0
+page: 1
+pageSize: 100
+
+#详情页信息
+resell: 1
+id: 100513857
+
+#请求相关 cookie很容易失效，建议每次爬取前都从浏览器先访问一下拿到最新的cookie
+Cookie: ""
+User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:100.0) Gecko/20100101 Firefox/100.0"
+
+#暂时没用
+uid: 11220239  # 个人登录的id
+token: "liLBNuxTxQ/9DadEIG9UXtDIlY04so5XCUphrrHNi2U="
+IB-DEVICE-ID: "130e3e6ea78b45bb804bef128cbadbb3"
+IB-PLATFORM-TYPE: "web"
+
+#合约地址
+Contract: "0xd3d2...32fb"

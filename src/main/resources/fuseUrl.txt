@@ -1,0 +1,4 @@
+#≈¿»°cookieµƒ‘§±∏url
+https://api-h5.ibox.art/nft-mall-web/v1.2/nft/product/
+https://api-h5.ibox.art/nft-mall-web/v1.2/nft/product/getTransactionList?page=1&pageSize=5&albumId=100513831&gNum=30811
+https://api-h5.ibox.art/nft-mall-web/v1.2/nft/product/getProductDetail?albumId=100513831
